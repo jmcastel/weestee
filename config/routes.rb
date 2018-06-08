@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   get 'hello/index'
+  get 'thankyou' => 'thank_you#welcome'
 
   root 'hello#index'
 
