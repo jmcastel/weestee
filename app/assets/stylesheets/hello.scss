@@ -1,13 +1,10 @@
-// Place all the styles related to the Hello controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
 
 
-.bp4-home1024 {
+.bp1-home {
   width               : 100%;
-  min-width           : 1024px;
+  min-width           : 1440px;
   height              : 100vh;
-  min-height          : 1400px;
+  min-height          : 1024px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -19,16 +16,260 @@ a {
 div {
   -webkit-text-size-adjust: none;
 }
-.bp4-home1024 .bp4-background {
+.bp1-home .bp1-background {
   background-color    : rgba(255, 255, 255, 0.0);
-  top                 : -41px;
+  top                 : -6px;
+  height              : 1134px;
+  width               : 3089px;
+  position            : absolute;
+  margin              : 0;
+  left                : -824px;
+}
+.bp1-home .bp1-background .bp1-coachellafestivalatmosphere2014billboard15485a4e1559cf484 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 1059px;
+  width               : 2118px;
+  position            : absolute;
+  margin              : 0;
+  left                : 485px;
+}
+.bp1-home .bp1-background .bp1-rectangle4 {
+  background-color    : rgba(216, 14, 244, 0.66);
+  pointer-events      : auto;
+  top                 : 3px;
+  height              : calc(100.00% - 55px);
+  width               : 100%;
+  margin-top          : -24px;
+  position            : relative;
+  margin-bottom       : 24px;
+  left                : 0px;
+}
+.bp1-home .bp1-background .bp1-rectangle4-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0;
+  align-items         : center;
+  height              : 100%;
+  width               : 100%;
+  justify-content     : center;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-home .bp1-iphonexclayblack {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 60px;
+  height              : 960px;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+}
+.bp1-home .bp1-text {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 131px;
+  height              : 458px;
+  width               : 657px;
+  position            : absolute;
+  margin              : 0;
+  left                : 615px;
+}
+.bp1-home .bp1-form {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 678px;
+  height              : 210px;
+  width               : 444px;
+  position            : absolute;
+  margin              : 0;
+  left                : 720px;
+}
+.bp1-home .bp1-form .bp1-gobutton {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 123px;
+  height              : 87px;
+  width               : 444px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-home .bp1-form .bp1-gobutton:hover {
+  transform           : scale(1.1);
+}
+.bp1-home .bp1-form .bp1-gobutton .bp1-rectangle3copy {
+  background-color    : rgba(255, 247, 42, 1.0);
+  top                 : 0px;
+  height              : 87px;
+  width               : 444px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+}
+.bp1-home .bp1-form .bp1-gobutton .bp1-go {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 188px;
+  font-family         : "AvenirNext-Heavy", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(221, 13, 246, 1.0);
+  text-align          : justify;
+  letter-spacing      : -0.7px;
+  line-height         : 66.0px;
+}
+.bp1-home .bp1-form .bp1-emailtextfield {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 111px;
+  width               : 444px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-home .bp1-form .bp1-emailtextfield .bp1-rectangle3copy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 87px;
+  width               : 444px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+}
+.bp1-home .bp1-form .bp1-emailtextfield .bp1-textemail {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 24px;
+  height              : 87px;
+  width               : 446px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  font-family         : "AvenirNext-Heavy", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(223, 0, 249, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.7px;
+  line-height         : 33.0px;
+  border              : 0;
+}
+.bp1-home .bp1-form .bp1-emailtextfield .bp1-textemail::placeholder {
+  color               : rgba(223, 0, 249, 0.6);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp2-home320 {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 1180px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(216, 14, 244, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-home320 .bp2-background {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : -134px;
   height              : 1448px;
   width               : 2890px;
   position            : absolute;
   margin              : 0;
-  left                : -942px;
+  left                : -1285px;
 }
-.bp4-home1024 .bp4-background .bp4-coachellafestivalatmosphere2014billboard15485a4e1559cf484 {
+.bp2-home320 .bp2-background .bp2-coachellafestivalatmosphere2014billboard15485a4e1559cf484 {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 0px;
   height              : 1445px;
@@ -37,7 +278,7 @@ div {
   margin              : 0;
   left                : 0px;
 }
-.bp4-home1024 .bp4-background .bp4-rectangle4 {
+.bp2-home320 .bp2-background .bp2-rectangle4 {
   background-color    : rgba(216, 14, 244, 0.66);
   top                 : 26px;
   height              : 1422px;
@@ -46,25 +287,25 @@ div {
   margin              : 0;
   left                : 463px;
 }
-.bp4-home1024 .bp4-helpustochangeth {
+.bp2-home320 .bp2-helpustochangeth {
   background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 383px;
-  height              : 330px;
-  width               : 421px;
+  top                 : 774px;
+  height              : 144px;
+  width               : 320px;
   position            : absolute;
   margin              : 0;
-  left                : 554px;
+  left                : 0px;
 }
-.bp4-home1024 .bp4-form {
+.bp2-home320 .bp2-form {
   background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 876px;
+  top                 : 962px;
   height              : 135px;
   width               : 240px;
   position            : absolute;
   margin              : 0;
-  left                : 644px;
+  left                : 40px;
 }
-.bp4-home1024 .bp4-form .bp4-gobutton {
+.bp2-home320 .bp2-form .bp2-gobutton {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 78px;
   height              : 57px;
@@ -74,10 +315,10 @@ div {
   left                : 0px;
   transition          : all 0.2s ease-in-out;
 }
-.bp4-home1024 .bp4-form .bp4-gobutton:hover {
+.bp2-home320 .bp2-form .bp2-gobutton:hover {
   transform           : scale(1.1);
 }
-.bp4-home1024 .bp4-form .bp4-gobutton .bp4-rectangle3copy {
+.bp2-home320 .bp2-form .bp2-gobutton .bp2-rectangle3copy {
   background-color    : rgba(255, 247, 42, 1.0);
   top                 : 0px;
   height              : 57px;
@@ -89,7 +330,7 @@ div {
   border-width        : 1px;
   border-color        : rgba(150, 150, 150, 1.0);
 }
-.bp4-home1024 .bp4-form .bp4-gobutton .bp4-go {
+.bp2-home320 .bp2-form .bp2-gobutton .bp2-go {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 5px;
   height              : auto;
@@ -104,7 +345,7 @@ div {
   letter-spacing      : -0.53px;
   line-height         : 49.0px;
 }
-.bp4-home1024 .bp4-form .bp4-emailtextfield {
+.bp2-home320 .bp2-form .bp2-emailtextfield {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 0px;
   height              : 67px;
@@ -113,7 +354,7 @@ div {
   margin              : 0;
   left                : 0px;
 }
-.bp4-home1024 .bp4-form .bp4-emailtextfield .bp4-rectangle3copy2 {
+.bp2-home320 .bp2-form .bp2-emailtextfield .bp2-rectangle3copy2 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 58px;
@@ -125,7 +366,7 @@ div {
   border-width        : 1px;
   border-color        : rgba(150, 150, 150, 1.0);
 }
-.bp4-home1024 .bp4-form .bp4-emailtextfield .bp4-textemail {
+.bp2-home320 .bp2-form .bp2-emailtextfield .bp2-textemail {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 9px;
   height              : 58px;
@@ -141,65 +382,50 @@ div {
   line-height         : 33.0px;
   border              : 0;
 }
-.bp4-home1024 .bp4-form .bp4-emailtextfield .bp4-textemail::placeholder {
+.bp2-home320 .bp2-form .bp2-emailtextfield .bp2-textemail::placeholder {
   color               : rgba(223, 0, 249, 0.6);
 }
-.bp4-home1024 .bp4-betabadge {
+.bp2-home320 .bp2-logo {
   background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 130px;
-  height              : 73px;
-  width               : 136px;
+  top                 : 33px;
+  height              : 66px;
+  width               : 282px;
   position            : absolute;
   margin              : 0;
-  left                : 435px;
+  left                : 19px;
 }
-.bp4-home1024 .bp4-betabadge .bp4-rectangle41 {
+.bp2-home320 .bp2-logo .bp2-weestee {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 0px;
-  height              : 73px;
-  width               : 136px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-}
-.bp4-home1024 .bp4-betabadge .bp4-beta {
-  background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 10px;
-  height              : auto;
-  width               : 109px;
-  position            : absolute;
-  margin              : 0;
-  left                : 13px;
-  font-family         : "AvenirNext-Heavy", Helvetica, Arial, serif;
-  font-size           : 36.0px;
-  color               : rgba(221, 13, 246, 1.0);
-  text-align          : center;
-  letter-spacing      : -0.53px;
-  line-height         : 49.0px;
-}
-.bp4-home1024 .bp4-weestee {
-  background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 29px;
   height              : auto;
   width               : 281px;
   position            : absolute;
   margin              : 0;
-  left                : 362px;
+  left                : 0px;
   font-family         : "AvenirNext-Heavy", Helvetica, Arial, serif;
-  font-size           : 64.0px;
+  font-size           : 48.0px;
   color               : rgba(255, 255, 255, 1.0);
   text-align          : center;
-  letter-spacing      : -0.93px;
-  line-height         : 87.0px;
+  letter-spacing      : -0.7px;
+  line-height         : 66.0px;
 }
-.bp4-home1024 .bp4-bitmap {
+.bp2-home320 .bp2-bitmap {
   background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 290px;
-  height              : 845px;
-  width               : 460px;
+  top                 : 184px;
+  height              : 590px;
+  width               : 321px;
   position            : absolute;
   margin              : 0;
-  left                : 73px;
+  left                : -9px;
+}
+.bp2-home320 .bp2-betabadge {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 99px;
+  height              : 55px;
+  width               : 102px;
+  position            : absolute;
+  margin              : 0;
+  left                : 109px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -557,11 +783,11 @@ div {
       opacity: 1;
     }
 }
-.bp2-home320 {
+.bp4-home1024 {
   width               : 100%;
-  min-width           : 320px;
+  min-width           : 1024px;
   height              : 100vh;
-  min-height          : 1180px;
+  min-height          : 1400px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -573,16 +799,16 @@ a {
 div {
   -webkit-text-size-adjust: none;
 }
-.bp2-home320 .bp2-background {
+.bp4-home1024 .bp4-background {
   background-color    : rgba(255, 255, 255, 0.0);
-  top                 : -134px;
+  top                 : -41px;
   height              : 1448px;
   width               : 2890px;
   position            : absolute;
   margin              : 0;
-  left                : -1285px;
+  left                : -942px;
 }
-.bp2-home320 .bp2-background .bp2-coachellafestivalatmosphere2014billboard15485a4e1559cf484 {
+.bp4-home1024 .bp4-background .bp4-coachellafestivalatmosphere2014billboard15485a4e1559cf484 {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 0px;
   height              : 1445px;
@@ -591,7 +817,7 @@ div {
   margin              : 0;
   left                : 0px;
 }
-.bp2-home320 .bp2-background .bp2-rectangle4 {
+.bp4-home1024 .bp4-background .bp4-rectangle4 {
   background-color    : rgba(216, 14, 244, 0.66);
   top                 : 26px;
   height              : 1422px;
@@ -600,25 +826,25 @@ div {
   margin              : 0;
   left                : 463px;
 }
-.bp2-home320 .bp2-helpustochangeth {
+.bp4-home1024 .bp4-helpustochangeth {
   background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 774px;
-  height              : 144px;
-  width               : 320px;
+  top                 : 383px;
+  height              : 330px;
+  width               : 421px;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
+  left                : 554px;
 }
-.bp2-home320 .bp2-form {
+.bp4-home1024 .bp4-form {
   background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 962px;
+  top                 : 876px;
   height              : 135px;
   width               : 240px;
   position            : absolute;
   margin              : 0;
-  left                : 40px;
+  left                : 644px;
 }
-.bp2-home320 .bp2-form .bp2-gobutton {
+.bp4-home1024 .bp4-form .bp4-gobutton {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 78px;
   height              : 57px;
@@ -628,10 +854,10 @@ div {
   left                : 0px;
   transition          : all 0.2s ease-in-out;
 }
-.bp2-home320 .bp2-form .bp2-gobutton:hover {
+.bp4-home1024 .bp4-form .bp4-gobutton:hover {
   transform           : scale(1.1);
 }
-.bp2-home320 .bp2-form .bp2-gobutton .bp2-rectangle3copy {
+.bp4-home1024 .bp4-form .bp4-gobutton .bp4-rectangle3copy {
   background-color    : rgba(255, 247, 42, 1.0);
   top                 : 0px;
   height              : 57px;
@@ -643,7 +869,7 @@ div {
   border-width        : 1px;
   border-color        : rgba(150, 150, 150, 1.0);
 }
-.bp2-home320 .bp2-form .bp2-gobutton .bp2-go {
+.bp4-home1024 .bp4-form .bp4-gobutton .bp4-go {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 5px;
   height              : auto;
@@ -658,7 +884,7 @@ div {
   letter-spacing      : -0.53px;
   line-height         : 49.0px;
 }
-.bp2-home320 .bp2-form .bp2-emailtextfield {
+.bp4-home1024 .bp4-form .bp4-emailtextfield {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 0px;
   height              : 67px;
@@ -667,7 +893,7 @@ div {
   margin              : 0;
   left                : 0px;
 }
-.bp2-home320 .bp2-form .bp2-emailtextfield .bp2-rectangle3copy2 {
+.bp4-home1024 .bp4-form .bp4-emailtextfield .bp4-rectangle3copy2 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 58px;
@@ -679,7 +905,7 @@ div {
   border-width        : 1px;
   border-color        : rgba(150, 150, 150, 1.0);
 }
-.bp2-home320 .bp2-form .bp2-emailtextfield .bp2-textemail {
+.bp4-home1024 .bp4-form .bp4-emailtextfield .bp4-textemail {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 9px;
   height              : 58px;
@@ -695,279 +921,65 @@ div {
   line-height         : 33.0px;
   border              : 0;
 }
-.bp2-home320 .bp2-form .bp2-emailtextfield .bp2-textemail::placeholder {
+.bp4-home1024 .bp4-form .bp4-emailtextfield .bp4-textemail::placeholder {
   color               : rgba(223, 0, 249, 0.6);
 }
-.bp2-home320 .bp2-logo {
+.bp4-home1024 .bp4-betabadge {
   background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 33px;
-  height              : 66px;
-  width               : 282px;
+  top                 : 130px;
+  height              : 73px;
+  width               : 136px;
   position            : absolute;
   margin              : 0;
-  left                : 19px;
+  left                : 435px;
 }
-.bp2-home320 .bp2-logo .bp2-weestee {
+.bp4-home1024 .bp4-betabadge .bp4-rectangle41 {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 0px;
+  height              : 73px;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-home1024 .bp4-betabadge .bp4-beta {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  font-family         : "AvenirNext-Heavy", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(221, 13, 246, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.53px;
+  line-height         : 49.0px;
+}
+.bp4-home1024 .bp4-weestee {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 29px;
   height              : auto;
   width               : 281px;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
+  left                : 362px;
   font-family         : "AvenirNext-Heavy", Helvetica, Arial, serif;
-  font-size           : 48.0px;
+  font-size           : 64.0px;
   color               : rgba(255, 255, 255, 1.0);
   text-align          : center;
-  letter-spacing      : -0.7px;
-  line-height         : 66.0px;
+  letter-spacing      : -0.93px;
+  line-height         : 87.0px;
 }
-.bp2-home320 .bp2-bitmap {
+.bp4-home1024 .bp4-bitmap {
   background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 184px;
-  height              : 590px;
-  width               : 321px;
+  top                 : 290px;
+  height              : 845px;
+  width               : 460px;
   position            : absolute;
   margin              : 0;
-  left                : -9px;
-}
-.bp2-home320 .bp2-betabadge {
-  background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 99px;
-  height              : 55px;
-  width               : 102px;
-  position            : absolute;
-  margin              : 0;
-  left                : 109px;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-.bp1-home {
-  width               : 100%;
-  min-width           : 1440px;
-  height              : 100vh;
-  min-height          : 1024px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  background-color    : rgba(216, 14, 244, 1.0);
-}
-a {
-  text-decoration     : none;
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.bp1-home .bp1-background {
-  background-color    : rgba(255, 255, 255, 0.0);
-  top                 : -6px;
-  height              : 1059px;
-  width               : 2118px;
-  position            : absolute;
-  margin              : 0;
-  left                : -339px;
-}
-.bp1-home .bp1-background .bp1-coachellafestivalatmosphere2014billboard15485a4e1559cf484 {
-  background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 0px;
-  height              : 1059px;
-  width               : 2118px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-}
-.bp1-home .bp1-background .bp1-rectangle4 {
-  background-color    : rgba(216, 14, 244, 0.66);
-  top                 : 6px;
-  height              : 1024px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 339px;
-}
-.bp1-home .bp1-iphonexclayblack {
-  background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 60px;
-  height              : 960px;
-  width               : 523px;
-  position            : absolute;
-  margin              : 0;
-  left                : 20px;
-}
-.bp1-home .bp1-text {
-  background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 131px;
-  height              : 458px;
-  width               : 657px;
-  position            : absolute;
-  margin              : 0;
-  left                : 615px;
-}
-.bp1-home .bp1-form {
-  background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 678px;
-  height              : 210px;
-  width               : 444px;
-  position            : absolute;
-  margin              : 0;
-  left                : 720px;
-}
-.bp1-home .bp1-form .bp1-gobutton {
-  background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 123px;
-  height              : 87px;
-  width               : 444px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-home .bp1-form .bp1-gobutton:hover {
-  transform           : scale(1.1);
-}
-.bp1-home .bp1-form .bp1-gobutton .bp1-rectangle3copy {
-  background-color    : rgba(255, 247, 42, 1.0);
-  top                 : 0px;
-  height              : 87px;
-  width               : 444px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(150, 150, 150, 1.0);
-}
-.bp1-home .bp1-form .bp1-gobutton .bp1-go {
-  background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 8px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 188px;
-  font-family         : "AvenirNext-Heavy", Helvetica, Arial, serif;
-  font-size           : 48.0px;
-  color               : rgba(221, 13, 246, 1.0);
-  text-align          : justify;
-  letter-spacing      : -0.7px;
-  line-height         : 66.0px;
-}
-.bp1-home .bp1-form .bp1-emailtextfield {
-  background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 0px;
-  height              : 111px;
-  width               : 444px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-}
-.bp1-home .bp1-form .bp1-emailtextfield .bp1-rectangle3copy2 {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 87px;
-  width               : 444px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(150, 150, 150, 1.0);
-}
-.bp1-home .bp1-form .bp1-emailtextfield .bp1-textemail {
-  background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 24px;
-  height              : 87px;
-  width               : 446px;
-  position            : absolute;
-  margin              : 0;
-  left                : -1px;
-  font-family         : "AvenirNext-Heavy", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(223, 0, 249, 1.0);
-  text-align          : center;
-  letter-spacing      : -0.7px;
-  line-height         : 33.0px;
-  border              : 0;
-}
-.bp1-home .bp1-form .bp1-emailtextfield .bp1-textemail::placeholder {
-  color               : rgba(223, 0, 249, 0.6);
+  left                : 73px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
